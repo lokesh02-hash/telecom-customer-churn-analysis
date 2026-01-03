@@ -21,7 +21,7 @@ Customer churn directly impacts recurring revenue. This analysis identifies key 
 - Churned customers have higher average monthly charges
 
 ## Dashboard
-![](dashboard_2.png)
+![](dashboard_1.png)
 ![](dashboard_2.png)
 
 ## Next Steps
